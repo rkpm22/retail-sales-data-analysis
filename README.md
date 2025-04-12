@@ -79,16 +79,6 @@ Monetary: Total amount spent
 | Needs Attention      | 3–4             | Re-engage                        |
 | At Risk              | 0–2             | Win back with personalized offers |
 
-
-### 📊 Plots included:
-
-Segment distribution (bar chart)
-
-Monetary distribution by segment (boxplot)
-
-Heatmap of Recency × Frequency
-
-
 ## 6. 🔁 Churn Analysis
 Churn defined as no purchase in 90+ days
 
